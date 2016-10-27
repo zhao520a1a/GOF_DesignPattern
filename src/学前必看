@@ -1,0 +1,23 @@
+设计模式模式：主要是为了实现软件编程的“高内聚低耦合”特性；
+面试热点： 单子模式，观察者模式（需要背诵优缺点）
+***装饰者模式和适配器区别：背诵
+
+  1.门面设计模式：(Facade Pattern)
+  2.*单子设计模式(Singleton Pattern) 4种
+  3.适配器模式：{Adapter Pattern(Class/Object)}： Adaptee、Adapte、Target
+  4.*观察者模式：(Observer Pattern):  AbstractSubject、ConcreteSubject、AbstractObserver、ConcreteObserver  
+  5.装饰者模式(Decorator Pattern):  AbstractSubject、ConcreteSubject、AbstractObserver、ConcreteObserver  
+  6.命令模式 (Command Pattern):  Invoker、Command、ConcreteCommand、Receiver
+  7.工厂设计模式(Factory Pattern)：分为3类：
+    a.简单工厂模式SimpleFactory:  IProduct ProductA ProductB Facoty Test
+    b.工厂方法模式Factory Method:  Facoty,MDLFacoty KDJFactory Chicken Hanb
+    C.抽象工厂模式.Abstract Factory:  Facoty,MDLFacoty KDJFactory AbstractChicken Chicken  AbstractHanb Hanb
+  8.代理模式proxypattern：
+  	a.静态代理模式staticproxy
+  	b.jdk动态代理模式
+  	c.cglib动态代理模式
+
+推荐模式：
+软件工程：
+《java与模式》 作者：闫宏     电子工业出版社  PDF  
+《大话设计模式》

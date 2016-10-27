@@ -1,0 +1,10 @@
+3.抽象工厂模式（Abstract Factory Pattern）：
+	当有多个抽象产品角色时，使用的一种工厂模式。
+	一个抽象工厂可以对应多个抽象产品，一个具体工厂可以对应多多个具体产品；
+	它可以向用户提供一个接口，是客户端在不不必指定产品的具体情况下，创建多个产品族中的产品对象；
+	
+抽象工厂模式角色定义：
+	（一个）抽象工厂角色：AbstractFactory
+	具体工厂角色：ConcreteFactory
+	（多个）抽象产品角色：AbstractProduct
+	具体产品角色：ConcreteProduct

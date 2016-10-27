@@ -1,0 +1,7 @@
+工厂设计模式：客户类和工厂类分开；客户任何时候需要某种产品，只需向工厂请求即可；无需修改就可以接纳新产品；
+分为三类：
+1.简单工厂模式（Simple Factroy Pattern）
+2.工厂方法模式（Factory Method Pattern）
+3.抽象工厂模式（Abstract Factory Pattern）
+
+工厂模式缺点：当产品修改时，工厂类也要做相应的修改；

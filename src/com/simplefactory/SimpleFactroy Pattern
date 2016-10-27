@@ -1,0 +1,7 @@
+简单工厂模式（Simple Factroy Pattern）：
+	一个具体工厂来生产一种抽象产品，一个抽象产品可以对应多个具体产品；
+
+简单工厂模式角色定义：
+	（具体）工厂角色：SimpleFactory
+	抽象产品角色：AbstractProduct
+	具体产品角色：ConcreteProduct
